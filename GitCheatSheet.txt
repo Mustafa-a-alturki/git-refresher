@@ -1,0 +1,4 @@
+-cd to the folder you want to use as a repo
+ - 'git init' : this will create the .git folder in your folder
+-to add files to be tracked:
+ - 'git add <file name>' or 'git add .' to add all files
