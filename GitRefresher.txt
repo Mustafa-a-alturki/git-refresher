@@ -4,7 +4,7 @@
  - 'git add <file name>' or 'git add .' to add all files
 -to list all remote repo associated with the current local repo
  - 'git remote'
--to create a github repo and use it as a remote repo, go to github and create the repo, give it a name (which should not be as the name of the local repo)
+-to create a github repo and use it as a remote repo, go to github and create the repo, give it a name (which maybe be different than the name of the local repo)
 -to use the github repo as the remote repo for your local repo
  -'git remote add <name of the remote repo which is usually origin> <url of the just created github repo>
 -to list all branches of a repo
